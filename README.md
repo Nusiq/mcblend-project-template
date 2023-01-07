@@ -30,9 +30,12 @@ items in Minecraft.
 - The player armature (`humanoid.customSlim`) has a pose that moves the arms in
   a way that closely resembles their positions in the first-person mode
 
-### Animations
+### Modeling
 
-The settings are configured to make it easier to create Minecraft animations.
+- The world scale has been increased by a factor of 16 using the `Unit Scale`
+  setting to match the units used in Minecraft.
+
+### Animations
 
 - The frame rate is set to 25 FPS. 25 divides 1 second more evenly than the
   default 24 FPS, which is important because the timeline in Minecraft
